@@ -1,0 +1,30 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1366.768" x="323" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="320" y="198" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="428" y="176" />
+    <location key="IDE.errors.dialog.0.0.1366.768" x="266" y="106" />
+    <location key="SettingsEditor.0.0.1366.768" x="172" y="16" />
+    <location key="search.everywhere.popup.0.0.1366.768" x="346" y="48" />
+    <location key="find.popup.0.0.1366.768" x="370" y="0" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="0" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1366.768" x="441" y="110" />
+    <location key="#Servers.0.0.1366.768" x="278" y="0" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="533" y="129" />
+    <location key="#Customize_Threads_View.0.0.1366.768" x="278" y="0" />
+    <location key="#Notifications.0.0.1366.768" x="278" y="0" />
+    <size key="new project wizard.0.0.1366.768" width="714" height="728" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" width="494" height="385" />
+    <size key="IDE.errors.dialog.0.0.1366.768" width="826" height="525" />
+    <size key="SettingsEditor.0.0.1366.768" width="1014" height="706" />
+    <size key="find.popup.0.0.1366.768" width="626" height="657" />
+    <size key="search.everywhere.popup.0.0.1366.768" width="672" height="678" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="424" height="482" />
+    <size key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1366.768" width="473" height="250" />
+    <size key="#Servers.0.0.1366.768" width="800" height="675" />
+    <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" width="290" height="212" />
+    <size key="#Customize_Threads_View.0.0.1366.768" width="800" height="675" />
+    <size key="#Notifications.0.0.1366.768" width="800" height="675" />
+  </component>
+</application>

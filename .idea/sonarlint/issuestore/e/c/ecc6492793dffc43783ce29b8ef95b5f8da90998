@@ -1,0 +1,37 @@
+
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÉ÷ïþÿÿÿÿ
+usquid:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÉ÷ïþÿÿÿÿ
+msquid:S2095>"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(Ò½™Áþÿÿÿÿ
+msquid:S2095"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(Ò½™Áþÿÿÿÿ
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+T
+squid:S106\"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+O
+squid:S106f"9Replace this use of System.out or System.err by a logger.(ÆÑ…¼
+O
+squid:S106h"9Replace this use of System.out or System.err by a logger.(öØÈ¢
+T
+squid:S106k"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+T
+squid:S106m"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+T
+squid:S106o"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+T
+squid:S106q"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+Qsquid:S1141-"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1141Y"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Gsquid:S1481b"+Remove this unused "entity" local variable.( °ÒÛüÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(¡’ž‚ûÿÿÿÿ
+Vsquid:S1854b":Remove this useless assignment to local variable "entity".( °ÒÛüÿÿÿÿ
+[squid:S21476"DCombine this catch with the one at line 52, which has the same body.(ï­£Ä
+asquid:S2147l"ECombine this catch with the one at line 106, which has the same body.(‡¤“Óûÿÿÿÿ
+\squid:S2147n"ECombine this catch with the one at line 106, which has the same body.(ï­£Ä
+asquid:S2147p"ECombine this catch with the one at line 106, which has the same body.(÷¿­¹ÿÿÿÿÿ
+hsquid:S00117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¼ïH
+isquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¹¯®
+?squid:S11481"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

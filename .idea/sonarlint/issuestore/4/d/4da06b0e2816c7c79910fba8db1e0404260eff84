@@ -1,0 +1,12 @@
+
+osquid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(”œÄH
+osquid:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(”œÄH
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(±óô¡þÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÛÿ•
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(®àú•þÿÿÿÿ
+jsquid:S00116"MRename this field "Ip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁãåÚýÿÿÿÿ
+ksquid:S00116"NRename this field "Mac" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÓ‹Çýÿÿÿÿ
+-squid:S1700"Rename field "metrics"(ð±²è

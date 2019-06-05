@@ -1,0 +1,19 @@
+<idea-plugin>
+    <id>org.jetbrains</id>
+    <name>Logger Intellij</name>
+    <version>0.0.1</version>
+    <vendor email="fulviomarcelli3f@gmail.com" url="">Fulvio Marcelli</vendor>
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+    </extensions>
+
+    <actions>
+        <group id="MyPlugin.SampleMenu" text="Logger IntelliJ" description="logger login">
+            <add-to-group group-id="MainMenu" anchor="last"/>
+            <action id="Myplugin.Textboxes" class="Logger" text="login" description="login to logger server"/>
+        </group>
+    </actions>
+
+</idea-plugin>

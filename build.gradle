@@ -1,0 +1,37 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '0.4.8'
+    id "org.sonarqube" version "2.6"
+}
+
+group 'loggerIntellij'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+apply plugin: 'idea'
+apply plugin: 'org.jetbrains.intellij'
+apply plugin: 'java'
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // https://mvnrepository.com/artifact/io.github.java-diff-utils/java-diff-utils
+    compile group: 'io.github.java-diff-utils', name: 'java-diff-utils', version: '4.0'
+}
+
+
+
+// See https://github.com/JetBrains/gradle-intellij-plugin/
+intellij {
+    version '2019.1.1'
+}
+patchPluginXml {
+    changeNotes """
+      Logger plugin for IntelliJ Ide.<br>
+      <em>Collect file created, deleted, copied, moved</em>
+      <em>Collect lines added, removed, changed<em>
+      <em>Collect comments added and removed<em>"""
+}

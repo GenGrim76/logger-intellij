@@ -1,0 +1,1000 @@
+jupyter
+conda update -n base conda
+pip3 install conda
+python3 -m pip install --upgrade pip
+python3 -m pip install jupyter
+jupyter notebook
+sudo apt-get remove ipython
+sudo apt-get purge ipython
+sudo apt-get autoremove
+pip install jupyter
+pip3 install jupyter
+sudo python3 -m pip install ipykernel
+sudo python3 -m ipykernel install --user
+pip3 install jupyter
+sudo apt-get update
+sudo apt-get updat
+sudo apt-get upgrade
+pip3 uninstall jupyter
+sudo apt install pip3
+sudo apt install python3-pip
+sudo apt install python-pip
+p3 uninstall jupyter
+pip uninstall jupyter
+python
+python3
+jupyter
+jupyter-run
+pip3 install --upgrade --force-reinstall --no-cache-dir jupyter
+sudo pip3 install --upgrade --force-reinstall --no-cache-dir jupyter
+sudo python3 -m pip uninstall pip && sudo apt install python3-pip --reinstall
+jupyter notebook
+sudo pip3 install --upgrade --force-reinstall --no-cache-dir jupyter
+jupyter notebook
+python3 -m http.server
+pwd
+su
+sudo su
+git clone https://github.com/tesseract-ocr/tessdata.git
+ls
+mv tessdata -r /home/fulvio/Universita/HelloWord/android/app/src/main/assets/
+mv tessdata  /home/fulvio/Universita/HelloWord/android/app/src/main/assets/
+ls
+export REACT_EDITOR=gedit
+cd Universita/HelloWord/
+npm i react-native-camera
+sudo ./studio.sh 
+cd ..
+ls
+cd root/
+su
+sudo su
+cd home/fulvio/Universita/HelloWord/
+react-native run-android
+sudo react-native run-android
+export ANDROID_HOME=/root/Android
+sudo react-native run-android
+export ANDROID_HOME=/root/Android/Sdk
+sudo react-native run-android
+sdk.dir = /home/Fulvio/Android/Sdk
+sdk.dir = /home/fulvio/Android/Sdk
+sudo react-native run-android
+cd ..
+git clone https://Balla93@bitbucket.org/eldiablo100000/bookhound.git
+sudo git clone https://Balla93@bitbucket.org/eldiablo100000/bookhound.git
+cd bookhound/
+ls
+cd ..
+cd HelloWord/
+sudo react-native run-android
+adb devices
+sudo apt install adb
+sudo react-native run-android
+adb devices
+sudo react-native run-android
+/bin/sh: 1: adb: not found
+npm install react-native-tesseract-ocr --save
+sudo npm install react-native-tesseract-ocr --save
+react-native link react-native-tesseract-ocr
+sudo react-native link react-native-tesseract-ocr
+sudo react-native run-android
+react-native start
+sudo react-native start
+react-native start
+sudo react-native run-android
+sudo react-native start
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+sudo react-native start
+shutdown now
+cd Universita/HelloWord/
+sudo react-native run-android
+gedit ~/.bashrc
+sudo apt install gedit
+gedit ~/.bashrc
+gedit ~/.zshrc
+gedit ~/.bashrc
+sudo react-native run-android
+shutdown now
+èwd
+pwd
+cd bin/
+ls
+./studio.sh 
+cd ..
+ls
+sudo ./studio.sh 
+cd bin/
+sudo ./studio.sh 
+react-native log-android
+su
+sudo su
+pwd
+cd Universita/HelloWord/image/
+pwd
+cd Universita/HelloWord/
+xkill
+adb logcat | grep ReactNativeJS
+cd Universita/HelloWord/
+code .
+sudo react-native start
+sudo react-native run-android
+npm i react-native-fs
+sudo npm i react-native-fs
+sudo npm i react-native-fs --save
+sudo react-native run-android
+react-native link react-native-fs
+sudo react-native link react-native-fs
+code .
+shutdown now
+adb logcat | grep ReactNativeJS
+reboot
+cd bin/
+sudo ./studio.sh 
+cd ..
+cd HelloWord/
+sudo react-native run-android
+sudo npm i --save react-native-gesture-handler
+sudo react-native run-android
+adb devices
+sudo react-native run-android
+adb devices
+sudo adb devices
+sudo react-native run-android
+cd Universita/HelloWord/
+code .
+npm install --save react-native-camera
+sudo npm install --save react-native-camera
+react-native link
+sudo react-native link
+sudo npm install --save react-navigation
+sudo react-native link
+npm start
+sudo npm start 
+sudo npm instal
+sudo npm install
+sudo npm i --save react-native-gesture-handler
+sudo npm install --save react-navigation
+sudo npm i react-native-gesture-handler
+ls
+sudo rm -r node_modules/
+sudo npm i
+react-native link react-native-gesture-handler
+sudo react-native link react-native-gesture-handler
+sudo npm i react-native-gesture-handler
+cd node_modules/
+ls
+cd ..
+sudo npm i react-native-gesture-handler  npm install --save react-native-gesture-handle
+sudo npm install --save react-native-gesture-handle
+sudo npm install --save react-native-gesture-handler
+rm -r node_modules/
+sudo rm -r node_modules/
+sudo npm install --save react-native-gesture-handler
+sudo react-native link react-native-gesture-handler
+sudo npm install
+cd node_modules/
+sudo rm -r react-native-safe-area-view/
+cd ..
+sudo npm install
+sudo react-native run-android
+sudo react-native link
+sudo rm -r node_modules/
+sudo npm install
+sudo react-native link
+sudo react-native run-android
+sido npm add @babel/runtime
+sudo npm add @babel/runtime
+npm install
+sudo npm install
+sudo react-native run-android
+sudo react-native link
+sudo i --save react-native-tab-view
+sudo npm i --save react-native-tab-view
+TypeError: undefined is not an object (evaluating '_reactNativeCamera.default.constants')
+sudo npm install --save react-native-camera
+sudo react-native link react-native-camera
+cd ..
+cd android-studio/
+cd bin/
+sudo ./studio.sh 
+sudo npm install --save react-native-camera
+sudo react-native link react-native-camera
+ls
+sudo rm -r node_modules/
+cd ..
+cd HelloWord/
+sudo npm install --save react-native-camera
+sudo react-native link react-native-camera
+sudo rm -r node_modules/
+sudo npm i
+sudo react-native start
+sudo su
+locate update.xml
+cd .android/
+sudo cd .android/
+sudo su
+sudo su
+cd Universita/android-studio/
+cd bin/
+sudo ./studio.sh 
+cd ..
+cd HelloWord/
+sudo react-native run-android
+sudo react-native link react-native-camera
+code .
+sudo react-native run-android
+cd ..
+cd android-studio/
+cd bin/
+sudo ./studio.sh 
+cd ..
+cd HelloWord/
+sudo rm -r node_modules/
+sudo npm i
+sudo react-native run-android
+sudo npm i
+react-native link react-native-gesture-handler
+sudo react-native link react-native-gesture-handler
+adb logcat | grep ReactNativeJS
+rrrr
+adb logcat | grep ReactNativeJS
+sudo adb logcat | grep ReactNativeJS
+cd Universita/android-studio/bin/
+sudo ./studio.sh 
+reboot
+cd ..
+git clone https://github.com/tesseract-ocr/tessdata.git
+sudo cp -r HelloWord/ ./Helloword2/
+cd Helloword2/
+ls
+git clone git@github.com:jonathanpalma/react-native-tesseract-ocr.git
+sudo git clone git@github.com:jonathanpalma/react-native-tesseract-ocr.git
+git clone https://github.com/jonathanpalma/react-native-tesseract-ocr.git
+cd react-native-tesseract-ocr/
+ls
+cd examples/
+ls
+cd RNTesseractOcrExample/
+ls
+npm install
+sudo react-native run-android
+code .
+cd Universita/android-studio/bin/
+sudo ./studio.sh 
+cd ..
+cd HelloWord/
+code .
+sudo react-native start
+sudo react-native run-android
+sudo su
+sudo react-native start
+sudo react-native run-android
+sudo adb logcat | grep ReactNativeJS
+sudo adb logcat | grep ReactNativeJS
+adb devices
+sudo su
+sudo adb logcat | grep ReactNativeJS
+adb devices
+adb reverse tcp:8081 tcp:8081
+adb devices
+sudo adb logcat | grep ReactNativeJS
+sudo react-native start
+adb kill-server
+adb start-server
+sudo su
+sudo su
+cd Universita/android-studio/bin/
+sudo ./studio.sh 
+shutdown now
+sudo shutdown now
+sudo npm i
+sudo react-native run-android
+sudo su
+cd Scaricati/v4l2loopback-master/
+ls
+make
+sudo apt install libelf-dev
+make
+sudo make install
+make
+make clean
+make
+sudo make
+make clean
+sudo make
+sudo make clean
+make
+sudo make install
+sudo apt install openssl
+sudo make install
+make
+sudo nano local.properties
+cd ..
+cd HelloWord/
+ls
+cd ..
+ls
+sudo chmod 777 react-native-sidemenu/
+cd react-native-sidemenu/
+sudo code .
+code .
+cd ..
+sudo chmod -r 777 react-native-sidemenu/
+sudo chmod 777 -r react-native-sidemenu/
+sudo chmod -r react-native-sidemenu/ 777
+sudo chmod 777 react-native-sidemenu/
+cd react-native-sidemenu/
+ls
+sudo chmod 777 android/
+sudo chmod 777 app
+ls
+cd android/
+ls
+cd ..
+sudo chmod -R 777 app
+sudo chmod -R 777 android/
+git add *.traineddata
+cd ..
+ls
+cd bookhound-app/
+git add HelloWord/android/app/src/main/assets/tessdata/*.traineddata
+sudo git add HelloWord/android/app/src/main/assets/tessdata/*.traineddata
+git config -f .git/config --remove-section submodule.$tessdata
+git config -e
+git submodule deinit -f -- HelloWord/android/app/src/main/assets/tessdata/
+git add *.traineddata
+sudo git add HelloWord/android/app/src/main/assets/tessdata/*.traineddata
+ls -a
+cd .git/
+ls -
+ls -a
+cd ..
+git rm --cached HelloWord/android/app/src/main/assets/tessdata/
+sudo git add HelloWord/android/app/src/main/assets/tessdata/*.traineddata
+git commit -m "add tessdata"
+git push
+ls -a
+cd tessdata/
+ls -a
+cd ..
+ls -a
+cd ..
+ls -a
+cd .git/
+ls
+ls -a
+cd ..
+cd HelloWord/
+ls -a
+cd ..
+cd .git/
+ls -a
+cd ..
+find ./|grep module
+find ./|grep submodule
+sudo find ./|grep submodule
+cd HelloWord/android/app/src/main/assets/tessdata/
+ls
+ls -a
+sudo git clone https://github.com/darde/react-native-sidemenu.git 
+ls
+cd react-native-sidemenu/
+sudo npm i
+npm start
+sudo npm start
+env
+sudo react-native run-android
+gradle --version
+./gradlew --version
+ls
+sudo react-native run-android
+env
+export JAVA_HOME=/usr/lib/jvm/jdk-11.0.3+7/
+sudo react-native run-android
+ls
+cd android/gradle/
+./gradlew --version
+ls
+cd wrapper/
+ls
+nano gradle-wrapper.properties 
+fg
+sudo nano gradle-wrapper.properties 
+lscd ..
+cd ..
+sudo react-native run-android
+adb devices
+sudo react-native run-android
+sudo react-native start
+code .
+sudo npm i
+cd node_modules/
+sudo rm -r react-native-safe-area-view/
+cd ..
+sudo npm i
+react-native link
+sudo react-native link
+sudo react-native run-android
+sudo react-native start
+npm i
+npm i react-native-camera
+sudo npm i react-native-camera
+cd node_modules/
+rm -r react-native-safe-area-view/
+sudo rm -r react-native-safe-area-view/
+cd ..
+sudo npm i react-native-camera
+sudo react-native link react-native-camera
+sudo npm i react-native-tesseract-ocr
+cd node_modules/
+sudo rm -r react-native-safe-area-view/
+cd ..
+sudo npm i react-native-tesseract-ocr
+sudo react-native link react-native-tesseract-ocr
+sudo react-native run-android
+sudo rm -r node_modules/
+sudo npm i
+sudo react-native run-android
+sudo npm i react-native-camera
+sudo rm -r node_modules/react-native-safe-area-view/
+sudo npm i react-native-camera
+sudo react-native link react-native-camera
+sudo react-native run-android
+sudo rm -r node_modules/react-native-safe-area-view/
+sudo npm i --save react-native-camera
+sudo react-native run-android
+sudo adb logcat | grep ReactNativeJS
+cd Universita/
+ls
+sudo rm -r Helloword2/
+ls
+cd HelloWord/
+code .
+sudo react-native start
+cd ..
+cd react-native-sidemenu/
+code .
+sudo react-native run-android
+sudo npm i
+sudo react-native run-android
+sudo npm i react-native-sidemenu
+sudo react-native run-android
+git remote add origin https://Balla93@bitbucket.org/Balla93/bookhound-app.git
+sudo git remote add origin https://Balla93@bitbucket.org/Balla93/bookhound-app.git
+cd ..
+git clone https://Balla93@bitbucket.org/Balla93/bookhound-app.git
+sudo rm -r bookhound-app
+git clone https://Balla93@bitbucket.org/Balla93/bookhound-app.git
+cd bookhound-app/
+cp -r ../HelloWord/ ./
+sudo cp -r ../HelloWord/ ./
+git add --all
+ls
+cd HelloWord/
+ls
+cd android/app/src/main/assets/tessdata/
+ls
+ls -a
+sudo rm -r .git/
+cd ../../..
+cd ..
+git add --all
+git commit -m "demo app"
+git config --global user.email "fulviomarcelli3f@gmail.com"
+git commit -m "demo app"
+git push
+sudo adb logcat | grep ReactNativeJS
+rr
+sudo adb logcat | grep ReactNativeJS
+cd ..
+cd bookhound-app/
+ls -a
+sudo ls -a
+sudo nano .gitignore
+git add --all
+git rm --cached android/app/src/main/assets/tessdata
+git init
+git add --all
+git rm --cached android/app/src/main/assets/tessdata
+cd ..
+ls
+sudo rm -r bookhound-app/
+git clone https://Balla93@bitbucket.org/Balla93/bookhound-app.git
+cd bookhound-app/
+ls
+cp HelloWord/.gitignore ./
+ls
+ls -a
+sudo rm -r HelloWord/
+cp -r ../react-native-sidemenu/* ./
+sudo cp -r ../react-native-sidemenu/* ./
+git add --all
+git rm --cached android/app/src/main/assets/tessdata
+cd android/app/src/main/assets/tessdata/
+ls
+ls -
+ls -a
+sudo rm -r .git/
+cd ../../../../
+cd ..
+git add --all
+sudo git add --all
+cd ..
+sudo chmod -R 777 bookhound-app/
+cd bookhound-app/
+git add --all
+git commit -m "add sidemenu"
+git push
+sudo react-native run-android
+sudo adb kill-server
+sudo adb start-server
+sudo su
+sudo react-native run-android
+reboot
+sudo reboot
+cd Universita/android-studio/bin/
+sudo ./studio.sh 
+sudo apt-get install v4l-utils 
+nano ~/.profile 
+v4l2-ctl -h
+v4l2-ctl -help-all
+v4l2-ctl --help-all
+v4l2-ctl --set-ctrl=rotate=90
+v4l2-ctl -v width=1296,height=972,pixelformat=H264 --set-ctrl=rotate=90
+v4l2-ctl --help-all | grep rota
+v4l2-ctl --help-all | grep rot
+sudo apt-get update
+sudo apt-get install v4l-utils
+sudo apt-get install v4l2loopback-utils
+sudo modprobe v4l2loopback exclusive_caps=1
+sudo apt remove --purge c4l2-ctl
+sudo apt remove --purge v4l2-ctl
+sudo apt remove --purge v4l2loopback-utils 
+sudo ./studio.sh 
+cd Universita/bookhound-app/
+sudo react-native run-android
+sudo react-native start
+git add --all
+git commit -m "create demo app"
+git push
+code .
+sudo Universita/android-studio/bin/studio.sh 
+code .
+sudo su
+sudo ./React\ Native\ Debugger 
+sudo adb logcat | grep ReactNativeJS
+cd Universita/bookhound-app/
+sudo react-native start
+sudo react-native run-android
+sudo npm i --save-dev react-native-debugger-open
+sudo rm -r node_modules/react-native-safe-area-view/
+sudo npm i --save-dev react-native-debugger-open
+export REACT_DEBUGGER="rndebugger-open --open --port 8081"
+sudo rndebugger-open
+npm start
+sudo npm start
+npm i -g react-devtools
+sudo npm i -g react-devtools
+sudo su
+sudo npm unistall react-native-debugger-open
+sudo npm uninstall react-native-debugger-open
+sudo rm -r node_modules/react-native-safe-area-view/
+sudo npm uninstall react-native-debugger-open
+cd Universita/bookhound-app/
+sudo react-native start
+sudo Universita/android-studio/bin/studio.sh 
+code .
+shutdown now
+cd lavoro/ecofarm/frontend/
+code .
+cd ..
+cd lavoro/ecofarm/frontend/
+code .
+htop
+git -a
+git branch
+cd lavoro/ecofarm/
+sudo docker-compose up
+git pull
+git checkout staging 
+sudo docker-compose up
+sudo docker-compose down
+git pull
+git stash
+git pull
+git checkout mapcomponent 
+sudo docker-compose up
+sudo docker-compose down
+git branch
+sudo docker-compose up
+sudo docker-compose down
+shutdown now
+cd lavoro/ecofarm/frontend/
+code .
+sudo npm i pdfjs-dist
+cd ..
+git pull
+cd frontend/
+code .
+npm i
+sudo npm i
+gitk
+sudo npm i
+sudo npm i intersection-observer
+sudo npm i vue-svg-loader
+sudo npm i -D vue-svg-loader
+cd lavoro/ecofarm/
+git checkout fulvio
+git stash
+git checkout fulvio
+git branch
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+htop
+cd lavoro/ecofarm/frontend/
+code .
+git branch
+git add --all
+git commit -m "add report preview"
+git push
+sudo npm i filestack-js
+git stash
+git add --all
+git commit -m "there is a bug when reload the page"
+git push
+reboot
+cd lavoro/ecofarm/
+sudo docker-compose up
+cd Universita/
+ls
+cd idea-IC-191.7141.44/
+ls
+cd lib/
+ls
+cd ..
+cd bin/
+sudo ./idea.sh 
+sudo cd /root/IdeaProjects/untitled/src/
+sudo sudo cd /root/IdeaProjects/untitled/src/
+sudo su
+cd lavoro/ecofarm/
+sudo docker-compose up
+sudo docker-compose down
+cd frontend/
+code .
+sudo npm i --save filestack-js 
+cd Universita/bookhound-app/
+code .
+sudo react-native run-android
+cd Universita/
+ls
+cd idea-IC-191.7141.44/
+LS
+ls
+cd bin/
+ls
+sudo ./idea.sh 
+cd ..
+cd android-studio/bin/
+ls
+sudo ./studio.sh 
+shutdown now
+ls -a
+cd ..
+ls -a
+cd ..
+ls -a
+cd ..
+ls -a
+cd ..
+ls -a
+cd src/main/
+ls -a
+cd java/
+ls -a
+cd JSON-java/
+ls -a
+shutdown now
+cd Universita/idea-IC-191.7141.44/bin/
+sudo ./idea.sh 
+git clone https://github.com/java-diff-utils/java-diff-utils.git
+shutdown now
+cd Universita/idea-IC-191.7141.44/bin/
+sudo ./idea.sh 
+cd Universita/idea-IC-191.7141.44/bin/
+sudo ./idea.sh 
+shutdown now
+sudo chmod 777 BC.txt 
+cd Universita/idea-IC-191.7141.44/bin/
+sudo ./idea.sh 
+shutdown now
+cd lavoro/ecofarm/
+git pull
+git checkout staging
+git status
+nano docker-compose.yml
+sudo docker-compose up
+git stash && git checkout staging
+nano docker-compose.yml
+sudo docker-compose up
+sudo docker-compose down
+cd frontend/
+npm run build
+git pull origin staging
+code .
+git pull origin staging
+git stash
+git pull origin staging
+npm i
+sudo npm i
+sudo npm run build
+cat package.json 
+npm rebuild node-sass
+sudo npm rebuild node-sass
+sudo npm i && npm rebuild node-sass
+sudo npm i && sudo npm rebuild node-sass
+cd ..
+git pull
+git status
+git config --email "fulviomarcelli3f@gmail.com"
+git  config --global --email "fulviomarcelli3f@gmail.com"
+shutdown now
+cd lavoro/ecofarm/frontend/code .
+cd lavoro/ecofarm/frontend/
+code .
+sudo npm i --save filestack-js
+code .
+cd ..
+sudo docker exec -it ecofarm_fastapi /bin/sh
+sudo netstat-tulpn
+sudo netstat -tulpn
+cd lavoro/ecofarm/
+nano docker-compose.yml 
+git status
+git stash
+git pull
+git config -email "fulviomarcelli3f@gmail.com"
+git --global -email "fulviomarcelli3f@gmail.com"
+git config -email "fulviomarcelli3f@gmail.com"
+git config --global email "fulviomarcelli3f@gmail.com"
+git config --global
+git config
+git pull
+git merge fulvio
+fg
+git checkout -B fulvio
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose build
+sudo ./reset 
+sudo docker-compose up
+sudo docker-compose down
+sudo ./refre.sh 
+sudo docker-compose down
+sudo docker-compose up
+sudo ./refre.sh fastapi
+sudo docker-compose down
+git stash
+git pull
+sudo ./refre.sh fastapi
+sudo docker-compose up
+sudo docker-compose down
+cd frontend/
+sudo npm i --save filestack-js
+cd ..
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose build
+sudo docker-compose up
+sudo docker-compose down
+docker system prune
+sudo docker system prune
+cd ..
+sudo rm ecofarm/
+ls
+sudo rm -R ecofarm/
+ls
+cd ..
+rm -R lavoro/
+cd lavoro/ecofarm/
+ssh -keygen -t ed25519
+ssh-keygen -t ed25519
+cat /~.ssh.id_ed25519.pub
+cat ~/.ssh.id
+cat /~.ssh/id_ed25519.pub
+cd ..
+ls -a
+cd .ssh/
+ls
+cat id_ed25519.pub 
+cd ..
+mkdir lavoro2
+cd lavoro2/
+git clone ssh://git@code.plasive.org:2122/7block/ecofarm.git
+git checkout staging
+cd ecofarm/
+git checkout staging
+git merge fulvio
+git checkout -B fulvio
+sudo ./reset build
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+./refre.sh fastapi
+sudo ./refre.sh fastapi
+cd frontend/
+code .
+cd ..
+code .
+sudo npm i
+sudo npm i $$ npm rebuild node-sass
+sudo npm i $$ sudo npm rebuild node-sass
+sudo npm i && sudo npm rebuild node-sass
+gitk
+nestat -tulpn
+netstat -tulpn
+cd ..
+diff nginx/conf/dev.conf /home/fulvio/Scaricati/Telegram\ Desktop/dev.conf 
+sudo code . --user-data-dir
+nano docker-compose.yml 
+docker-compose ps
+sudo docker-compose ps
+sudo docker network ls
+sudo docker-compose ps --services
+docker inspect 58d41eb64b53
+sudo docker inspect 58d41eb64b53
+docker inspect ecofarm_fastapi | grep '"IPAddress"'
+sudo docker inspect ecofarm_fastapi | grep '"IPAddress"'
+sudo docker-compose down
+sudo docker inspect ecofarm_fastapi | grep '"IPAddress"'
+docker logs -f 2ee5aa8e959bec4ab186ced7a08027bdc386f5c44b6df574eebe0941df7a0a1d
+docker logs -f ab65b4c10dfb2a221d24a175f4608efeb93178e1c8b301a9485072f2429bab1a
+docker logs -f 00036b7aea9e9bf3838ab19ceae522649368c6f6c315eba95b9bdbd30bb475c1
+cd lavoro2/ecofarm/
+sudo Traceback (most recent call last):
+fastapi_1    |   File "/usr/local/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 371, in run_asgi
+fastapi_1    |     asgi = app(self.scope)
+fastapi_1    | TypeError: __call__() missing 2 required positional arguments: 'receive' and 'send'
+fastapi_1    | [2019-05-22 21:45:47 +0000] [17] [INFO] ('172.20.0.4', 57444) - "POST /surveys/ HTTP/1.0" 500
+sudo Traceback (most recent call last):
+fastapi_1    |   File "/usr/local/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 371, in run_asgi
+fastapi_1    |     asgi = app(self.scope)
+fastapi_1    | TypeError: __call__() missing 2 required positional arguments: 'receive' and 'send'
+fastapi_1    | [2019-05-22 21:45:47 +0000] [17] [INFO] ('172.20.0.4', 57444) - "POST /surveys/ HTTP/1.0" 500
+sudo docker exec -it ecofarm_fastapi /bin/sh
+cd fastapi/
+ls
+nano requirements.txt 
+cd ..
+sudo ./refre.sh fastapi
+git branch
+git push
+sudo git push
+xkill
+cd Universita/idea-IC-191.7141.44/
+sudo ./bin/idea.sh 
+shutdown now
+htop
+xkill
+ls
+cd Scaricati/
+ls
+sudo ./nosqlbooster4mongo-5.1.7.AppImage 
+cd lavoro/ecofarm/
+code .
+git clone https://github.com/rossta/vue-pdfjs-demo
+cd frontend/
+sudo npm i
+npm i --save intersection-observer
+sudo npm i --save intersection-observer
+sudo npm i
+sudo npm i --save vue-svg-loader
+shutdown now
+cd lavoro/ecofarm/frontend/
+code .
+cd ..
+code .
+./refre.sh fastapi
+sudo ./refre.sh fastapi
+cd Universita/idea-IC-191.7141.44/bin/
+sudo ./idea.sh 
+cd ..
+cd lavoro/ecofarm/
+sudo docker-compose up
+git pull
+git branch
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+cd lavoro/ecofarm/
+code .
+cd frontend/
+sudo npm install --save pdfjs-dist/webpack
+sudo npm install --save pdfjs-dist
+cd ..
+git add --all
+git commit -m "add ReportViewer"
+git push
+git push --set-upstream origin fulvio
+git pull
+git push origin fulvio
+git branch
+git status
+gitk
+sudo ./refre.sh fastapi
+cd lavoro/ecofarm/
+sudo docker-compose up
+sudo docker-compose down
+cd frontend/
+sudo npm i --save filestack-js
+cd ..
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+reboot
+htop
+shutdown now
+cd Universita/idea-IC-191.7141.44/bin/
+sudo ./idea.sh 
+cd ..
+cd lavoro/ecofarm/
+code .
+sudo ./refre.sh fastapi
+git pull
+git add --all
+git commit -m "add about me form"
+git push
+gitk
+cd lavoro/ecofarm/
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+cd Universita/idea-IC-191.7141.44/bin/
+sudo ./idea.sh 
+xkill
+cd Universita/idea-IC-191.7141.44/bin/
+sudo ./idea.sh 
+cd ..
+cd lavoro/ecofarm/
+sudo docker-compose up
+git add --all
+git commit -m "add id company in post survey"
+git push
+git push --set-upstream origin fulvio
+git pull
+git push --set-upstream origin fulvio
+git pull
+gitk
+htop
+cd lavoro/ecofarm/
+code .
+sudo ./refre.sh fastapi
+reboot
+fdgdg

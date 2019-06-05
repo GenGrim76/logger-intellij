@@ -1,0 +1,10 @@
+
+psquid:S1450"TRemove the "token" field and declare it as a local variable in the relevant methods.(°É©ñÿÿÿÿÿ
+osquid:S1450"SRemove the "user" field and declare it as a local variable in the relevant methods.(’Ø¾ıÿÿÿÿ
+rsquid:S1450"VRemove the "project" field and declare it as a local variable in the relevant methods.(Ø¿Òåıÿÿÿÿ
+tsquid:S1450"XRemove the "pListener" field and declare it as a local variable in the relevant methods.(ØÇáúÿÿÿÿ
+lsquid:S1450"PRemove the "m" field and declare it as a local variable in the relevant methods.(–€ôÿÿÿÿÿ
+csquid:CallToDeprecatedMethod-"6Remove this use of "getDataContext"; it is deprecated.(ÿ‘ßÈüÿÿÿÿ
+bsquid:CallToDeprecatedMethod-"5Remove this use of "DataConstants"; it is deprecated.(ÿ‘ßÈüÿÿÿÿ
+\squid:CallToDeprecatedMethod-"/Remove this use of "PROJECT"; it is deprecated.(ÿ‘ßÈüÿÿÿÿ
+csquid:CallToDeprecatedMethod0";Remove this use of "addAnActionListener"; it is deprecated.(åĞé

@@ -1,0 +1,21 @@
+
+3squid:S1643a"Use a StringBuilder instead.(®òÁ
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ö¬
+T
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(Ó£¿µúÿÿÿÿ
+T
+squid:S106h"9Replace this use of System.out or System.err by a logger.(Ó£¿µúÿÿÿÿ
+O
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ö¬
+O
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ö¬
+Esquid:S1125Î"(Remove the literal "true" boolean value.(Ú Ùÿûÿÿÿÿ
+Esquid:S1125Ü"(Remove the literal "true" boolean value.(Ú Ùÿûÿÿÿÿ
+Qsquid:S1141e"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+jsquid:S3776v"SRefactor this method to reduce its Cognitive Complexity from 111 to the 15 allowed.(œ®…ú
+\squid:S2147m"ECombine this catch with the one at line 107, which has the same body.(Ãôş•
+esquid:S00116"MRename this field "BC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô™·€
+esquid:S00116"MRename this field "AC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶š„ˆ
+?squid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

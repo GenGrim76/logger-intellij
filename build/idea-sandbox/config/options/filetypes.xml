@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="aaaa" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="esempio1" type="PLAIN_TEXT" />
+      <mapping pattern="ee" type="PLAIN_TEXT" />
+      <mapping pattern="ccc" type="PLAIN_TEXT" />
+      <mapping pattern="bbbbb" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern="es" type="PLAIN_TEXT" />
+      <mapping pattern="ab" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,16 @@
+
+Osquid:S1197a"8Move the array designator from the variable to the type.(–Ç²¦
+Ksquid:S1066"/Merge this if statement with the enclosing one.(é›òàýÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(åè°úÿÿÿÿ
+isquid:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÅðÚÝ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(”öÌýÿÿÿÿ
+fsquid:S00100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅðÚÝ
+csquid:S001123"FDefine and throw a dedicated exception instead of using a generic one.(¨Ë˜©øÿÿÿÿ
+`squid:S2147;"DCombine this catch with the one at line 55, which has the same body.(ìáËÊùÿÿÿÿ
+`squid:S2147?"DCombine this catch with the one at line 55, which has the same body.(±Ÿ—±ÿÿÿÿÿ
+:squid:S11489"#Use a logger to log this exception.(Ç’Çê
+:squid:S1148="#Use a logger to log this exception.(Ç’Çê
+:squid:S1148A"#Use a logger to log this exception.(Ç’Çê
+:squid:S1148X"#Use a logger to log this exception.(Ç’Çê

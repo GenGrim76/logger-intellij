@@ -1,0 +1,7 @@
+
+‡"squid:ClassVariableVisibilityCheck"YMake activity_type a static final constant or non-public and provide accessors if needed.(απ¶
+"squid:ClassVariableVisibilityCheck"SMake tabName a static final constant or non-public and provide accessors if needed.(“ύΖÒ
+"squid:ClassVariableVisibilityCheck"UMake startDate a static final constant or non-public and provide accessors if needed.(¬―ωÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"SMake endDate a static final constant or non-public and provide accessors if needed.(•Ξ†Ζώÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"QMake value a static final constant or non-public and provide accessors if needed.(ηªΖΰ
+psquid:S00116"XRename this field "activity_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(απ¶
