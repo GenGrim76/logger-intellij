@@ -1,4 +1,4 @@
-# logger-intellij: A complete logger for intellij IDEA by Fulvio Marcelli (https://gitlab.com/fulvio1993/logger-intellij)
+# logger-intellij: A complete logger for intellij IDEA by Fulvio Marcelli ##(https://gitlab.com/fulvio1993/logger-intellij)
 
 # Install and Usage instructions
 
