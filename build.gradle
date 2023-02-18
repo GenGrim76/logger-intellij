@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-    id 'org.jetbrains.intellij' version '0.4.8'
+    id 'org.jetbrains.intellij' version '1.13.0'
     id "org.sonarqube" version "2.6"
 }
 
@@ -17,17 +17,19 @@ apply plugin: 'org.jetbrains.intellij'
 apply plugin: 'java'
 
 dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testImplementation group: 'junit', name: 'junit', version: '4.12'
     // https://mvnrepository.com/artifact/io.github.java-diff-utils/java-diff-utils
-    compile group: 'io.github.java-diff-utils', name: 'java-diff-utils', version: '4.0'
+    implementation group: 'io.github.java-diff-utils', name: 'java-diff-utils', version: '4.0'
 }
 
 
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version '2019.1.1'
+    version = '2022.3.2'
 }
+
+/*
 patchPluginXml {
     changeNotes """
       Logger plugin for IntelliJ Ide.<br>
@@ -35,3 +37,4 @@ patchPluginXml {
       <em>Collect lines added, removed, changed<em>
       <em>Collect comments added and removed<em>"""
 }
+*/
