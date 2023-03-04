@@ -29,12 +29,10 @@ intellij {
     version = '2022.3.2'
 }
 
-/*
 patchPluginXml {
-    changeNotes """
+    changeNotes = """
       Logger plugin for IntelliJ Ide.<br>
       <em>Collect file created, deleted, copied, moved</em>
       <em>Collect lines added, removed, changed<em>
       <em>Collect comments added and removed<em>"""
 }
-*/
